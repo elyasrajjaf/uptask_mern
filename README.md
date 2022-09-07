@@ -1,2 +1,2 @@
-# uptask_mern
+# UPTASK App - MERN STACK
 UPTASK App with MERN Stack
